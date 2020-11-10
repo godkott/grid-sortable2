@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/grid-sortable",
+    "name": "godkott/grid-sortable2",
     "description": "Sort the grid data by drag and drop rows",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "grid", "sortable"],
-    "homepage": "https://github.com/laravel-admin-ext/grid-sortable",
+    "homepage": "https://github.com/godkott/grid-sortable",
     "license": "MIT",
     "authors": [
         {
